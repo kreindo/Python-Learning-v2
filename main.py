@@ -11,7 +11,7 @@ url = "https://api.openweathermap.org/data/2.5/weather"
 api_key = os.getenv("API_KEY")
 params = {
     "q"     : "Makassar",
-    "appid" : "5e21d363cdc4f29f6c0f2d95799d8f84",
+    "appid" : "",
     "units" : "metric"
 }
 
